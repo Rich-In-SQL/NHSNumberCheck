@@ -1,4 +1,4 @@
-CREATE FUNCTION fnNHSValidation_svf (@NHSNumber varchar(11))
+CREATE FUNCTION fnNHSValidation_svf (@NHSNumber varchar(12))
 
 RETURNS BIT
 
